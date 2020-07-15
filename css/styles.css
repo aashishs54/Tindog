@@ -40,9 +40,7 @@ p {
     color: #8f8f8f;
 }
 /* navigation bar */
-.navbar {
-    background-color: #ff4c68;
-}
+
 .navbar-brand {
     color: white;
     font-family: "Ubuntu";
@@ -56,6 +54,8 @@ p {
 
 .nav-link {
     color: white;
+    font-family: "Montserrat";
+    font-size: 1.0 rem;
 }
 
 /* download button */
